@@ -1,5 +1,2 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: *
-Allow: /
+https://www.herbalife.com.mx/content/herbalifenutrition/mexico/es_mx.sitemap.xml
+https://www.herbalife.com/content/herbalifenutrition/nam/en_us.sitemap.xml
